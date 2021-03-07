@@ -20,9 +20,9 @@
     * To install the dependencies run the following command: pip install -r requirements.txt
     
 4. You have to create the database schema using the following commands(this project uses SQLite3 as a database):
-    1. type: python in your terminal (you will be able to run python in the python terminal)
-    2. type: from app import db
-    3. type: db.create_all()
+    * type: python in your terminal (you will be able to run python in the python terminal)
+    * type: from app import db
+    * type: db.create_all()
     
 5. Finaly, you have to run the server:
     
